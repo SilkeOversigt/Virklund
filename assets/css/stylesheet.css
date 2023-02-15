@@ -2955,3 +2955,23 @@ input:-internal-autofill-selected {
   left: -40px;
   border-radius: 4px 0px 0px 4px;
 }
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50vh;
+}
+
+.center-div {
+  margin: auto;
+  width: 50%;
+}
+
+.bg-blue {
+  background-color: #1a3960 !important;
+}
+
+.bg-light {
+  background-color: #e8eaec !important;
+}
